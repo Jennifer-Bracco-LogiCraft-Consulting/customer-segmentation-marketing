@@ -19,7 +19,9 @@ Identify homogeneous customer groups to support targeted marketing strategies.
 ## Notebook
 The full analysis is available in the notebook file.
 
+Note: The notebook is written in Italian.
+
 ---
 
 Developed by Jennifer Bracco  
-LogiCraft Consulting – Data Analytics & Qualità
+LogiCraft Consulting – Data Analytics & Qualità (ISO 9001)
